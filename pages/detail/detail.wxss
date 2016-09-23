@@ -1,0 +1,8 @@
+.video_container {
+    margin: 20rpx;
+}
+
+.vd {
+    width: 100%;
+    height: 40%;
+}

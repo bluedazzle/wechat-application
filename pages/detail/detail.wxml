@@ -1,0 +1,3 @@
+<view class="video_container">
+    <video src="{{ video.url }}" class="vd" />
+</view>
